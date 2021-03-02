@@ -1,0 +1,4 @@
+#Tue Mar 02 23:32:56 TRT 2021
+base.0=/home/kadirbekar/Desktop/scrollable_effect/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
